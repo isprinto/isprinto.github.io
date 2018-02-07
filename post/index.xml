@@ -18,7 +18,11 @@
       
       <guid>/2018/02/07/r/</guid>
       <description>画一幅图
-plot(c(5,6,7,2,4,5,7)) </description>
+plot(c(5,6,7,2,4,5,7)) 这是个超链接
+http://rpubs.com/loness/167347
+附件的替代方式：
+附件1
+R语言实战第二版中文</description>
     </item>
     
     <item>
