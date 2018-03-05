@@ -3,16 +3,16 @@
   <channel>
     <title>Yang Chunling's homepage</title>
     <description>I am Yang Chunling. Isprinto is my English Name, which means sprint IO.</description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>健华通讯合辑的技术架构</title>
         <description>
 </description>
         <pubDate>Thu, 01 Mar 2018 19:37:17 +0800</pubDate>
-        <link>//blog/arc-of-jianhuatuxun.html</link>
-        <guid isPermaLink="true">//blog/arc-of-jianhuatuxun.html</guid>
+        <link>http://localhost:4000//blog/arc-of-jianhuatuxun.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/arc-of-jianhuatuxun.html</guid>
       </item>
     
   </channel>
