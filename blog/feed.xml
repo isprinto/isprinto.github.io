@@ -7,8 +7,20 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>网空间</title>
-        <description>
+        <title>网络空间</title>
+        <description>&lt;h2 id=&quot;网络空间&quot;&gt;网络空间&lt;/h2&gt;
+&lt;p&gt;网络空间，即由网络衍生的空间&lt;/p&gt;
+&lt;h2 id=&quot;空间&quot;&gt;空间&lt;/h2&gt;
+&lt;p&gt;空间，具有特殊性质或附加结构的集合。人类认知的总体定义了现在我们共同感知到的这个世界。&lt;/p&gt;
+&lt;h2 id=&quot;网络&quot;&gt;网络&lt;/h2&gt;
+&lt;p&gt;描述多个点的状态、行为和关系&lt;/p&gt;
+&lt;h2 id=&quot;物质空间&quot;&gt;物质空间&lt;/h2&gt;
+&lt;p&gt;原子空间&lt;/p&gt;
+&lt;h2 id=&quot;精神空间&quot;&gt;精神空间&lt;/h2&gt;
+&lt;p&gt;想象空间
+##网络空间
+比特空间&lt;/p&gt;
+
 </description>
         <pubDate>Tue, 06 Mar 2018 10:52:19 +0800</pubDate>
         <link>http://localhost:4000//blog/networkspace.html</link>
@@ -17,7 +29,20 @@
     
       <item>
         <title>个人知识生态链圈</title>
-        <description>&lt;p&gt;**个人知识生态链圈&lt;/p&gt;
+        <description>&lt;p&gt;##个人知识生态链圈&lt;/p&gt;
+
+&lt;p&gt;世界是客观的也是主观的，个人感知到的世界由个人的认知定义。&lt;/p&gt;
+
+&lt;p&gt;个人的认知可能通过优化个人知识生态链圈来主动改进。&lt;/p&gt;
+
+&lt;p&gt;个人知识生态链圈由个人动态能力、社会关系、知识网络和工具平台构成&lt;/p&gt;
+
+&lt;p&gt;个人动态能力有IQ、EQ、HQ&lt;/p&gt;
+
+&lt;p&gt;社会关系有家庭关系、师承关系、同伴关系&lt;/p&gt;
+
+&lt;p&gt;知识网络包括通识知识网络和专业知识网络&lt;/p&gt;
+
 </description>
         <pubDate>Tue, 06 Mar 2018 09:42:04 +0800</pubDate>
         <link>http://localhost:4000//blog/epk.html</link>
@@ -26,7 +51,17 @@
     
       <item>
         <title>健华通讯合辑的技术架构</title>
-        <description>
+        <description>&lt;p&gt;从1989年第一座健华图书馆建立至今已经28年了。每一个资助周期，健华图书馆的负责人就会向健华社提交通行报告。二十余年下来，积累了厚厚的一叠报告，怎么把它们持久化地存储出来，并且后面用纯数字化形式提交？&lt;/p&gt;
+
+&lt;p&gt;经调研，设计了通讯收集发布一体化平台。
+##运行环境
+历史PDF使用Adobe Acrobat XI Pro&lt;/p&gt;
+
+&lt;p&gt;有Word的源文件的，使用Word修改。&lt;/p&gt;
+
+&lt;p&gt;有Word源文件的新提交的报告，使用Sphinx电子出版，该电子出版可以同时生成 pdf,html.&lt;/p&gt;
+
+&lt;p&gt;Sphinx的运行环境在 Ubuntu上搭建。在虚拟的Python运行环境中通过 Pip 安装 sphinx&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Mar 2018 19:37:17 +0800</pubDate>
         <link>http://localhost:4000//blog/arc-of-jianhuatuxun.html</link>
