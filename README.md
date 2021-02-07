@@ -4,7 +4,7 @@
 
 ### 主题预览
 
-[Yangchunling's Homepage](http://isprinto.info/)。
+[Yangchunling's Homepage](https://isprinto.github.io/)。
 
 
 ### 感谢
